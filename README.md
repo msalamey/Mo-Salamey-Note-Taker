@@ -18,9 +18,9 @@ To create an application that allows the user to create, save, and delete notes.
 * Utilized Heroku to access the application via a live URL. 
 
 ## Screen Shot
-
-![image](https://user-images.githubusercontent.com/107436206/192126019-c714cb9b-207c-4e94-a8c9-ad95aecf32a3.png)
  
+ 
+
 ## Links
-* Video Link: https://drive.google.com/file/d/1NxNWZwU7baLRFm3VOu_LlvIviadvZDc6/view
-* Github Link: https://github.com/msalamey/Mo-Salamey-Team-Profile-Generator
+* Live URL: https://enigmatic-refuge-12311.herokuapp.com/
+* Github Link: https://github.com/msalamey/Mo-Salamey-Note-Taker

@@ -14,6 +14,7 @@ To create an application that allows the user to create, save, and delete notes.
 * Created API routing files to request and send responses from the server. 
 * Create a server file set for the Express back end to handle data parsing and to listen to inputs. 
 * Utilized Heroku to access the application via a live URL. 
+* Complete the bonus section and added a delete function so the user can delete notes. 
 
 ## Screen Shot
  

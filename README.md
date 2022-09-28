@@ -1,7 +1,5 @@
 # Mo-Salamey-Note-Taker
 
-# Mo-Salamey-Team-Profile-Generator
-
 ## Table of Contents: 
 * [Description](#Description)
 * [Actions Taken](#Actions)
@@ -19,7 +17,7 @@ To create an application that allows the user to create, save, and delete notes.
 
 ## Screen Shot
  
- 
+ ![image](https://user-images.githubusercontent.com/107436206/192850499-43ef2441-d05b-43ff-9fc5-23558716bed7.png)
 
 ## Links
 * Live URL: https://enigmatic-refuge-12311.herokuapp.com/
